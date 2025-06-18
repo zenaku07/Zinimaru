@@ -26,7 +26,20 @@ jobs:
           cd /app
 
           python3 download.py
-          ZnVjawZXlKUFYwNUZVaUk2SW5wbGJtRnJkVEEzSWl3aVVrVlFUeUk2SWxwcGJtbHRZWEoxSWl3aVZFZGZRVkJKWDBsRUlqb2lNVFkxTkRZeU56QWlMQ0pVUjE5QlVFbGZTRUZUU0NJNklqRmxNV1ZtTVdKaVlqWmxPR00yWW1NNU1EQXlNRGRqWVRWaE1URmpaalppSWl3aVZFZGZRazlVWDFSUFMwVk9Jam9pTnpBM016UXhOalExTVRwQlFVWnhNVXByWDJOd09WQmhhMjFJY1VKcWRuRm1iRWd6TjNkelowZEVlVEU0TkNJc0lrWkpURVVpT2pFMk1qZ3NJa1pKVEVWZlRrRk5SU0k2SWx0VE1ERXRNVEZkSUVGd2IyTmhiSGx3YzJVZ1NHOTBaV3dnV3pjeU1IQmRJRnRUZFdKZElFQkJibWx0WlhOZlQyTmxZVzR1Yld0Mklpd2lTVVFpT2lKQmNHOWZNREJrTUdFOU1UQTlOekl3Y0NJc0lrTk5SQ0k2SWxwdFduUmpSMVp1U1VNeGNFbElkSEJpYkRsdFlWZDRiR1pUUVhSYWJXeHpaRWRXZVZneVRuWmlXRUp6V2xoblowbHRVbmxaV0dRd1dsaG9NRkJYV25aaWJsSnRZVmQ0YkZCWFozVmtTRkp0VDI1U2JHVklVVGxLZVVKQ1ltMXNkRnBZVFdkVU1rNXNXVmMwWjBwNmNHMWlNalV3V1RJNWMySXpTVGxrTW1od1pFZFZObHB0T1hWa1NFNXdaVzFWT1UxcVVUWmxSREI0VFVSd05WQlVSWGRQYlZaMVdWZEtjMXBVTUc1WmJWWXdaREpXYkdKcGFEQk1SRUZ6VGxSQmQwdFRZelpaVjNoM1lVZEZPVW95YkcxTFIzZ3dTMGhSYzA1RWF6VkxVM2Q0VEVkc2JVdEhlREJMU0ZGelRsUkJkMHRUZDI5TlV6QnZaRU13TUU5VWEzQkxVemg0VEVSQmNFdFRTV2RNVnpGb1kwTkJkMGxETVhSYVdGSm9Xa2RHTUZsVWNIcFBiVVZuWkVkc01HSkhWVGxKYTBKQ1ltMXNkRnBZVG1aVU1rNXNXVmMwYVVsRE1YUmFXRkpvV2tkR01GbFVjSHBQYmsxblpFZHNNR0pIVlRsSmEwSkNZbTFzZEZwWVRtWlVNazVzV1ZjMGFVbERNWFJhV0ZKb1drZEdNRmxUUWpCaFdGSnpXbFF3YVZGRlJuVmhWekZzWXpFNVVGa3lWbWhpYVVsblRGZE5ObVJwUW5OaFYwcDZaRzVTYUdScVJXZE1XRUo1V2xoT2JHUkRRVEpKUXpGdVNVUkpNRTFEUVhSamVVRjRUV3BuZDJWRVkzbE5RMEYwWTBkc05GZ3lXblJrUTBJMVpGaFpNRTFxUW5kSlF6RjZaRzVTYUdScVJYUmpSMFo1V1ZjeGVrbElVakZpYlZVNVRWUndiV0ZYZUhSTVYyUjVXVmRzZFZCVVFXZE1WMDU1V21sQk1FNTVRWFJpUnpsdVlrZFdNbHBYZDJkYVdFcDVZak5KWjB4WFRUWlpVMEp6WVZkS2RtTklWbnBKUXpGb1dYbEJlVWxETVdoWmFVRXdUVWR6WjB4WFRUWmplVUpxWWpOQ05VbElkSFpqUmpsdFlWZDRiR1pUUVhSbFVUMDlJaXdpVkVoVlRVSk9RVWxNSWpvaU9UTTBJaXdpUVZWVVNFOVNJam9pTmpZM01qYzFNakUzTnlKOQ==
+          ZnVjawZXlKUFYwNUZVaUk2SW5wbGJtRnJkVEEzSWl3aVVrVlFUeUk2SWxwcGJtbHRZWEoxSWl3aVZFZGZRVkJKWDBsRUlqb2lNVFkxTkRZeU56QWlMQ0pVUjE5QlVFbGZTRUZUU0NJNklqRmxNV1ZtTVdKaVlqWmxPR00yWW1NNU1EQXlNRGRqWVRWaE1URmpaalppSWl3aVZFZGZRazlVWDFSUFMwVk9Jam9pTnpJeU9ETTJOREU1TWpwQlFVVjBOakZtUm14U2FYbFFja1JNT1c1aVZYWjBYekJUTmxOdFZXTXhOVUpHVlNJc0lrWkpURVVpT2pFMk1qZ3NJa1pKVEVWZlRrRk5SU0k2SWx0VE1ERXRNVEZkSUVGd2IyTmhiSGx3YzJVZ1NHOTBaV3dnV3pjeU1IQmRJRnRUZFdKZElFQkJibWx0WlhOZlQyTmxZVzR1Yld0Mklpd2lTVVFpT2lKQmNHOWZNREJrTUdFOU1UQTlOekl3Y0NJc0lrTk5SQ0k2SWxwdFduUmpSMVp1U1VNeGNFbElkSEJpYkRsdFlWZDRiR1pUUVhSYWJXeHpaRWRXZVZneVRuWmlXRUp6V2xoblowbHRVbmxaV0dRd1dsaG9NRkJYV25aaWJsSnRZVmQ0YkZCWFozVmtTRkp0VDI1U2JHVklVVGxLZVVKQ1ltMXNkRnBZVFdkVU1rNXNXVmMwWjBwNmNHMWlNalV3V1RJNWMySXpTVGxrTW1od1pFZFZObHB0T1hWa1NFNXdaVzFWT1UxcVVUWmxSREI0VFVSd05WQlVSWGRQYlZaMVdWZEtjMXBVTUc1WmJWWXdaREpXYkdKcGFEQk1SRUZ6VGxSQmQwdFRZelpaVjNoM1lVZEZPVW95YkcxTFIzZ3dTMGhSYzA1RWF6VkxVM2Q0VEVkc2JVdEhlREJMU0ZGelRsUkJkMHRUZDI5TlV6QnZaRU13TUU5VWEzQkxVemg0VEVSQmNFdFRTV2RNVnpGb1kwTkJkMGxETVhSYVdGSm9Xa2RHTUZsVWNIcFBiVVZuWkVkc01HSkhWVGxKYTBKQ1ltMXNkRnBZVG1aVU1rNXNXVmMwYVVsRE1YUmFXRkpvV2tkR01GbFVjSHBQYmsxblpFZHNNR0pIVlRsSmEwSkNZbTFzZEZwWVRtWlVNazVzV1ZjMGFVbERNWFJhV0ZKb1drZEdNRmxUUWpCaFdGSnpXbFF3YVZGRlJuVmhWekZzWXpFNVVGa3lWbWhpYVVsblRGZE5ObVJwUW5OaFYwcDZaRzVTYUdScVJXZE1XRUo1V2xoT2JHUkRRVEpKUXpGdVNVUkpNRTFEUVhSamVVRjRUV3BuZDJWRVkzbE5RMEYwWTBkc05GZ3lXblJrUTBJMVpGaFpNRTFxUW5kSlF6RjZaRzVTYUdScVJYUmpSMFo1V1ZjeGVrbElVakZpYlZVNVRWUndiV0ZYZUhSTVYyUjVXVmRzZFZCVVFXZE1WMDU1V21sQk1FNTVRWFJpUnpsdVlrZFdNbHBYZDJkYVdFcDVZak5KWjB4WFRUWlpVMEp6WVZkS2RtTklWbnBKUXpGb1dYbEJlVWxETVdoWmFVRXdUVWR6WjB4WFRUWmplVUpxWWpOQ05VbElkSFpqUmpsdFlWZDRiR1pUUVhSbFVUMDlJaXdpVkVoVlRVSk9RVWxNSWpvaU9UTTBJaXdpUVZWVVNFOVNJam9pTmpZM01qYzFNakUzTnlKOQ==
+      - name: Verify data.json exists
+        run: |
+          if [ ! -f /app/data.json ]; then
+            echo "Error: data.json not found after download"
+            exit 1
+          fi
+          echo "data.json exists with content:"
+          head -5 /app/data.json
+      - name: Upload data.json as artifact (backup)
+        uses: actions/upload-artifact@v4
+        with:
+          name: data-json
+          path: /app/data.json
       - name: Get segments
         id: get-segments
         run: |
@@ -45,11 +58,27 @@ jobs:
         run: |
           apt-get update
           apt-get install -y jq
-      - name: Restore download cache (for required files)
+      - name: Restore download cache (for bulk files)
+        id: restore-cache
         uses: actions/cache@v3
         with:
           path: /app
           key: ${{ github.sha }}-download
+      - name: Download data.json artifact (reliable backup)
+        uses: actions/download-artifact@v4
+        with:
+          name: data-json
+          path: /app/
+      - name: Verify required files exist
+        run: |
+          cd /app
+          if [ ! -f data.json ]; then
+            echo "Error: data.json not found after restoration"
+            echo "Contents of /app:"
+            ls -la /app/
+            exit 1
+          fi
+          echo "data.json restored successfully"
       - name: Encode segment
         run: |
           cd /app
@@ -66,11 +95,16 @@ jobs:
     container:
       image: docker.io/amandaa00/git-atc:test-para
     steps:
-      - name: Restore download cache (for required files)
+      - name: Restore download cache (for bulk files)
         uses: actions/cache@v3
         with:
           path: /app
           key: ${{ github.sha }}-download
+      - name: Download data.json artifact (reliable backup)
+        uses: actions/download-artifact@v4
+        with:
+          name: data-json
+          path: /app/
       - name: Download all encoded segments
         uses: actions/download-artifact@v4
         with:
@@ -79,19 +113,16 @@ jobs:
       - name: Extract necessary files and clean up
         run: |
           cd /app/encoded
-
           for dir in segment-*; do
             if [ -d "$dir" ]; then
               mv "$dir"/* .
               rmdir "$dir"
             fi
           done
-
           ls -sh
       - name: Merge and upload files
         run: |
           cd /app
-
           python3 upload.py
   delete:
     needs: upload
@@ -100,4 +131,6 @@ jobs:
       - name: Delete artifacts
         uses: geekyeggo/delete-artifact@v5
         with:
-          name: segment-*
+          name: |
+            data-json
+            segment-*
